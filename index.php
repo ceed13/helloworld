@@ -1,3 +1,3 @@
 <?php
-print("<h1>Succes Consolde -<> debian <-> github 
+print("<h1>Succes Consolde -<> debian <-> github </h1>");
 ?>
