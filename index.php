@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+print("<h1>Succes Consolde -<> debian <-> github </h1>");
 ?>
