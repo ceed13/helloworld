@@ -1,3 +1,3 @@
 <?php
-or
+print("<h1>Succes 
 ?>
